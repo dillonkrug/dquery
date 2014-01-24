@@ -26,7 +26,7 @@ $.loadDSS('./main.dss')
 ###main.dss
 ```css
 .new {
-    collection: 'restaurant';
+    collection: 'restaurants';
     filter: {
         created: {
             $gte: Date(Date.now() - 1000*60*60*24*7)
