@@ -1,0 +1,29 @@
+{
+  "name": "dquery-mongo",
+  "version": "0.0.0",
+  "description": "jQuery for your database",
+  "main": "src/dquery.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dillonkrug/dquery.git"
+  },
+  "keywords": [
+    "db",
+    "database",
+    "query"
+  ],
+  "author": "Dillon Krug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillonkrug/dquery/issues"
+  },
+  "homepage": "https://github.com/dillonkrug/dquery",
+  "dependencies": {
+    "bluebird": "*",
+    "lodash": "*",
+    "mongojs": "*"
+  }
+}
