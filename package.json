@@ -1,6 +1,6 @@
 {
   "name": "dquery-mongo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "jQuery for your database",
   "main": "src/dquery.js",
   "scripts": {
